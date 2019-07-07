@@ -6,9 +6,9 @@ layout: feed
 
 	<title>Arbitrary Aims</title>
 	<link href="http://xaknows.github.io/blog/atom.xml" rel="self"/>
-	<link href="http://xaknows.github.io/blog"/>
+	<link href="http://xaknows.github.io/blog/"/>
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
-	<id>http://xaknows.github.io/blog</id>
+	<id>http://xaknows.github.io/blog/</id>
 	<author>
 		<name>Xa Knows</name>
 		<email>xaknows@gmail.com</email>
